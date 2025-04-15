@@ -1,5 +1,7 @@
 alias n=nvim
 alias open=explorer.exe
+alias ll="ls -al"
+alias batt="batcat"
 #alias pbcopy="win32yank.exe -i"
 
 # Password generator
